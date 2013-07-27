@@ -14,7 +14,7 @@ Navigate to your Sublime Text 2 user packages directory:
 
 And clone the repo to a new directory right then and there:
 
-    git clone git@github.com:mikeerickson/toastr-snippets/sublime-toastr-snippets.git
+    git@github.com:mikeerickson/toastr-snippets.git
 
 
 ###Manually
